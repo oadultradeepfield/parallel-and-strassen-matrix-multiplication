@@ -1,4 +1,4 @@
-# 🧮 Parallel and Strassen Matrix Multiplication Implementation
+# 🧮 Parallel and Strassen Matrix Multiplication
 
 A Java implementation of matrix multiplication algorithms, featuring both standard and Strassen's algorithm with parallel processing capabilities.
 
