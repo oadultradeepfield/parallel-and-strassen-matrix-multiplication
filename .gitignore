@@ -4,10 +4,10 @@
 # Log files
 *.log
 
-# IDE specific files
-.idea/
-.vscode/
-*.iml
+# Analysis files
+*.csv
+*.ipynb
+venv/
 
 # MacOS files
 .DS_Store
