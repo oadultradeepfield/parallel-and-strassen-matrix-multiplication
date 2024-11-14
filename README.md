@@ -2,6 +2,8 @@
 
 A Java implementation of matrix multiplication algorithms, featuring both standard and Strassen's algorithm with parallel processing capabilities.
 
+![Performance analysis of matrix multiplication algorithms. Note that Strassen's algorithm requires adjusting matrix dimensions to the nearest power of two. For any matrix of size n, where 2^k-1 < n ≤ 2^k, the runtime will be identical to a matrix of size 2^k, as the matrix must be padded to the next power of two.](https://github.com/oadultradeepfield/parallel-and-strassen-matrix-multiplication/blob/150c9e6a2f6fdcd8091dbe78297230a4a3aca370/performance_analysis.png?raw=true)
+
 ## ✨ Features
 
 - Standard matrix multiplication with parallel processing
